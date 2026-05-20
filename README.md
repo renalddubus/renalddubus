@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renalddubus
 - 👀 I’m interested in dev and meet people
-- 🌱 I’m currently advocate No-Code
+- 🌱 I’m currently IA advocate
 - 💞️ I’m looking to collaborate on ...
 
 <!---
